@@ -36,7 +36,7 @@ That's it. `uv` handles Python version, virtual environment, and all dependencie
 
 ## Configuration
 
-Create a `.env` file at the project root:
+Create a `.env` file at the project root (you can use the `.env.sample` file):
 
 ```env
 # Required — from Special:BotPasswords
