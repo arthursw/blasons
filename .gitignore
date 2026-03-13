@@ -1,5 +1,5 @@
 .venv/
-blasons/
+./blasons/
 data/
 .env
 communes-france-2025.csv
